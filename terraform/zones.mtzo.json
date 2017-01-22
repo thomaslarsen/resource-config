@@ -26,6 +26,5 @@
 
   "consul_hostname": "consul",
   "consul_service": "consul-server",
-  "consul_port": 8500,
-
+  "consul_port": 8500
 }
