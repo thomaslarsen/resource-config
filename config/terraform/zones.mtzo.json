@@ -15,8 +15,8 @@
 
   "saltmaster_hostname": "salt",
   "saltmaster_service": "saltmaster",
-  "saltmaster_port1": 4505,
-  "saltmaster_port2": 4506,
+  "saltmaster_publish_port": 4505,
+  "saltmaster_ret_port": 4506,
   "saltmaster_kickstart_url": "git@github.com:thomaslarsen/salt-cloud.git",
   "saltmaster_kickstart_branch": "aws",
 

@@ -6,5 +6,5 @@
   "ldap_instance_type": "m4.large",
   "consul_instance_type": "m4.large",
 
-  "saltmaster_kickstart_branch": "master",
+  "saltmaster_kickstart_branch": "master"
 }
