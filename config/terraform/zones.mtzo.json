@@ -1,8 +1,7 @@
 {
-  "appzone_name": "mtzo",
   "appzone_index": "0",
-
-  "thin_ami_id": "ami-8b8c57f8",
+  
+  "thin_ami_id": "ami-02ace471",
 
   "jump_instance_type":         "t2.micro",
   "saltmaster_instance_type":   "t2.micro",
