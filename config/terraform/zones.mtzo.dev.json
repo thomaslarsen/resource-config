@@ -1,4 +1,6 @@
 {
-  "vdc_name": "dc0",
-  "class": "dev"
+  "vdc_name":   "dc0",
+  "class":      "dev",
+
+  "saltmaster_kickstart_branch": "aws"
 }
