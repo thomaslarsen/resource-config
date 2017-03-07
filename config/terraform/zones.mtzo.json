@@ -1,5 +1,6 @@
 {
-  "appzone_index": "0",
+  "appzone_index": "1",
+  "appzone_name": "mtzo",
 
   "thin_ami_id":                "ami-02ace471",
   "jump_instance_type":         "t2.micro",

@@ -1,0 +1,11 @@
+{
+  "appzone_index": "0",
+  "appzone_name": "core",
+
+  "thin_ami_id":                "ami-02ace471",
+  "vault_instance_type":        "t2.micro",
+
+  "vault_hostname": "vault",
+  "vault_service": "vault-server",
+  "vault_port": 8200
+}
