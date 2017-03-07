@@ -7,7 +7,5 @@
   "saltmaster_instance_type":   "m4.xlarge",
   "ldap_instance_type":         "m4.large",
   "consul_instance_type":       "m4.large",
-  "vault_instance_type":       "m4.large",
-
-  "saltmaster_kickstart_branch": "master"
+  "vault_instance_type":       "m4.large"
 }
