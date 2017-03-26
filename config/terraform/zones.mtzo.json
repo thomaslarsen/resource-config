@@ -20,13 +20,5 @@
 
   "ldap_hostname": "ldap",
   "ldap_service": "ldap",
-  "ldap_port": 389,
-
-  "consul_hostname": "consul",
-  "consul_service": "consul-server",
-  "consul_port": 8500,
-
-  "vault_hostname": "vault",
-  "vault_service": "vault-server",
-  "vault_port": 8200
+  "ldap_port": 389
 }

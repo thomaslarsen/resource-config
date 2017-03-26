@@ -7,5 +7,9 @@
 
   "vault_hostname": "vault",
   "vault_service": "vault-server",
-  "vault_port": 8200
+  "vault_port": 8200,
+
+  "consul_hostname": "consul",
+  "consul_service": "consul-server",
+  "consul_port": 8500
 }
